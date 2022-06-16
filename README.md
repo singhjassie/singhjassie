@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @singhjassie
+- 👀 I’m interested in Cyber Security
+- 🌱 I’m currently learning penatrtion testing
+- 💞️ I’m looking to collaborate for creating new hacking tools

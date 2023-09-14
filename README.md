@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Jaskaran SIngh
-#### Aspiring Cybersecurity Enthusiast | Tool Developer | Network Security 
+#### Aspiring Cybersecurity Enthusiast
 ![Aspiring Cybersecurity Enthusiast | Tool Developer | Network Security ](https://github.com/singhjassie/singhjassie/blob/main/cyber-cropped.jpg)
 
 I am an enthusiastic learner in the field of cybersecurity, passionate about developing tools and applications to test the security of computer systems and networks. I am currently on a journey of acquiring knowledge and skills to contribute to the realm of cybersecurity.

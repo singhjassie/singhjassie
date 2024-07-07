@@ -12,7 +12,7 @@ I am eager to collaborate and grow in the cybersecurity community. Feel free to 
 ## Skills:
 - Linux
 - Networking
-- C++
+- Java
 - Python
 
 
